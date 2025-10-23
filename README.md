@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm James
 
-<!--
-**Kritsiri-nd/Kritsiri-nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full Stack Developer  
+- 🌐 Building practical and impactful web applications  
+- 🎨 Passionate about clean design and great user experience  
+- ☕ Driven by curiosity (and coffee)  
+- 📫 Reach me at **kritsiri.nd@gmail.com**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,js,html,css,ts,react,nextjs,nodejs,express,mysql,mongodb,postgres,supabase,tailwind,figma,vercel,postman&perline=8" />
+</p>
+
+---
+
+### ❤️ What I Love
+- Turning ideas into real, interactive web experiences  
+- Writing readable, maintainable code  
+- Exploring new tech over a cup of coffee ☕  
+
+---
+
+### 🌐 Connect with me
+- 💼 LinkedIn: [linkedin.com/in/kritsiri-nd](https://linkedin.com/in/kritsiri-nd)
