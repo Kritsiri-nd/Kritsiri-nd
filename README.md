@@ -28,17 +28,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img width="30" height="30" src="https://skillicons.dev/icons?i=supabase" />
   <img width="30" height="30" src="https://skillicons.dev/icons?i=vercel" />
   <img width="30" height="30" src="https://skillicons.dev/icons?i=postman" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=nginx" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=linux" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=docker" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=bash" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=notion" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=netlify" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=python" />
   <img width="30" height="30" src="https://skillicons.dev/icons?i=npm" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=yarn" />
   <img width="30" height="30" src="https://skillicons.dev/icons?i=vite" />
-  <img width="30" height="30" src="https://skillicons.dev/icons?i=redux" />
 </div>
 
 ---
